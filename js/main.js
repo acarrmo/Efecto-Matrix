@@ -13,7 +13,7 @@ function initMatrix()
   paint.fillStyle = "rgba(0,20,1,0.5)";
   paint.fillRect(0,0,width,height);
   paint.fillStyle = "rgba(0, 255, 0, 1)"
-  paint.font = "11pt arial"
+  paint.font = "12pt arial"
 
   position.map(function(y, index)
   {
